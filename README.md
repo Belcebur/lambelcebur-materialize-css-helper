@@ -1,4 +1,4 @@
-# Lambelcebur/materialize-css-helper
+# lambelcebur/materialize-css-helper
 Lam materialize-css-helper
 
 - MaterializeCSS Version: [1.0](https://materializecss.com)
@@ -6,7 +6,7 @@ Lam materialize-css-helper
 `This module overwrites the original ZF view helpers defined below.`
 
 ## See
-- [https://packagist.org/explore/?query=Lambelcebur](https://packagist.org/explore/?query=Lambelcebur)
+- [https://packagist.org/explore/?query=lambelcebur](https://packagist.org/explore/?query=lambelcebur)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require Lambelcebur/materialize-css-helper
+composer require lambelcebur/materialize-css-helper
 ```
 
 Then add `LamBelcebur\MaterialiceCssHelper` to your `config/application.config.php`

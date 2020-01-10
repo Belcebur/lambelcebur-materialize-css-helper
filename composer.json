@@ -1,6 +1,6 @@
 {
-    "name": "Lambelcebur/materialize-css-helper",
-    "description": "MaterializeCss Helper integration to Lam",
+  "name": "lambelcebur/materialize-css-helper",
+  "description": "MaterializeCss Helper integration to Lam",
   "keywords": [
     "View",
     "Helper",
@@ -18,10 +18,10 @@
         "laminas/laminas-form": "^2.0"
     },
     "suggest": {
-        "Lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
-        "Lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
-      "Lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
-      "Lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
+      "lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
+      "lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
+      "lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
+      "lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
     },
     "license": "Apache-2.0",
     "authors": [
